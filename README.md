@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=karunyasharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=karunyasharma&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=karunyasharma&icon=0&color=0)][((https://karunyasharma.github.io/Karunyafolio/)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
