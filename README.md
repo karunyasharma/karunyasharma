@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  <a href="https://karunyasharma.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=030712&labelColor=030712" alt="Portfolio"/></a>
+  <a href="[https://karunyasharma.github.io/Karunyafolio/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=030712&labelColor=030712" alt="Portfolio"/></a>
   <a href="mailto:karunyasharma60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-FFD400?style=for-the-badge&logo=gmail&logoColor=030712&labelColor=030712" alt="Email"/></a>
   <a href="https://linkedin.com/in/karunyasharma"><img src="https://img.shields.io/badge/LINKEDIN-connect-FFD400?style=for-the-badge&logo=linkedin&logoColor=030712&labelColor=030712" alt="LinkedIn"/></a>
 </p>
