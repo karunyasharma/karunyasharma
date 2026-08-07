@@ -1,69 +1,88 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFD400&center=true&vCenter=true&width=750&lines=Applied+AI+%26+Data+Science+%40+IIT+Jodhpur;Turning+raw+data+into+intelligent+systems;Python+%7C+TensorFlow+%7C+Next.js+%7C+Three.js;Learning+in+public.+Shipping+in+public." alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:FFD400&height=260&section=header&text=KARUNYA%20SHARMA&fontSize=60&fontColor=FFD400&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=20&descColor=FFFFFF" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FFD400&center=true&vCenter=true&width=750&lines=Building+AI+%2B+ML+%2B+Data+Systems;Turning+Messy+Data+Into+Clear+Decisions;Python+%E2%80%A2+TensorFlow+%E2%80%A2+OpenCV+%E2%80%A2+Next.js;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<p>
-  <a href="https://karunyasharma.github.io/Karunyafolio/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=030712&labelColor=030712" alt="Portfolio"/></a>
-  <a href="mailto:karunyasharma60@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-FFD400?style=for-the-badge&logo=gmail&logoColor=030712&labelColor=030712" alt="Email"/></a>
-  <a href="https://linkedin.com/in/karunyasharma"><img src="https://img.shields.io/badge/LINKEDIN-connect-FFD400?style=for-the-badge&logo=linkedin&logoColor=030712&labelColor=030712" alt="LinkedIn"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=050505&labelColor=050505)](https://karunyasharma.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-FFD400?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505)](https://linkedin.com/in/karunyasharma)
+[![Email](https://img.shields.io/badge/EMAIL-say%20hi-FFD400?style=for-the-badge&logo=gmail&logoColor=050505&labelColor=050505)](mailto:karunyasharma60@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-follow-FFD400?style=for-the-badge&logo=instagram&logoColor=050505&labelColor=050505)](https://www.instagram.com/karunya_sh1506/)
 
-<img src="https://komarev.com/ghpvc/?username=karunyasharma&style=for-the-badge&color=FFD400&labelColor=030712&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=karunyasharma&style=for-the-badge&color=ffd400&labelColor=050505&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
 
-## About
+## `class Karunya:`
 
 ```python
 class Karunya:
     def __init__(self):
-        self.role     = "Applied AI & Data Science student, IIT Jodhpur"
-        self.focus    = ["Machine Learning", "Computer Vision", "Data Analytics", "Interactive frontend"]
-        self.stack    = ["Python", "TensorFlow", "Next.js", "TypeScript", "Three.js"]
+        self.role      = "Applied AI & Data Science Student, IIT Jodhpur"
+        self.focus     = ["Machine Learning", "Computer Vision", "Data Analytics", "3D Interactive Frontend"]
+        self.stack     = ["Python", "TensorFlow", "OpenCV", "Next.js", "TypeScript", "Three.js"]
+        self.currently = "shipping projects that make data feel effortless"
 
-    def philosophy(self):
+    def philosophy(self) -> str:
         return "Who does this help, and what becomes easier because it exists?"
+
+me = Karunya()
 ```
 
-<br/>
+<div align="center">
 
-## Featured Work
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AD+Exploring%3A+Generative+AI+%2B+Computer+Vision;%F0%9F%A7%AA+Currently+Building%3A+3D+Interactive+Portfolio+Systems;%F0%9F%93%88+Practicing%3A+End-to-End+ML+Pipelines" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FFD400&height=4&section=header" width="100%"/>
+
+<div align="center">
+
+## 🧬 Skills That Actually Ship
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch,sklearn,pandas,numpy,nextjs,react,ts,threejs,tailwind,git,github,vercel,figma&theme=dark&perline=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
+
+## 🚀 Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**Pet Recommendation Expert System**
-Rule-based expert system that matches users to suitable pets based on lifestyle inputs.
-`Python` `Expert Systems`
+### 🖐️ Hand Gesture Recognition
+Real-time computer-vision model turning sign-language gestures into readable text — built to close the gap between signers and non-signers.
+`Python` `OpenCV` `TensorFlow`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-**Hand Gesture Recognition**
-Real-time computer-vision model for detecting and classifying hand gestures.
-`Python` `OpenCV` `TensorFlow`
+### 🌫️ India AQI Analysis
+Exploratory data analysis of Air Quality Index trends across Indian megacities — cleaning, feature engineering, and visual storytelling.
+`Python` `Pandas` `Seaborn`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**VidyaVerse — ROI Analysis**
-Data analytics project evaluating educational return-on-investment across programs.
-`Python` `Pandas` `Data Analytics`
+### 🐾 Pet Recommendation Expert System
+Rule-based expert system matching users to the right pet based on lifestyle inputs.
+`Python` `Expert Systems`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-**Data Analytics Dashboard**
-Interactive dashboard for exploring and visualizing multi-dimensional datasets.
-`Python` `Dashboards` `Visualization`
+### 📊 VidyaVerse — ROI Analysis
+Data analytics project evaluating educational return-on-investment across programs.
+`Python` `Pandas` `Data Analytics`
 
 </td>
 </tr>
@@ -71,78 +90,85 @@ Interactive dashboard for exploring and visualizing multi-dimensional datasets.
 
 <div align="center">
 
-More detail and live demos are on the **[portfolio site →](https://karunyasharma.vercel.app/)**
+**Live demos & deep dives → [karunyasharma.vercel.app](https://karunyasharma.vercel.app/)**
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FFD400&height=4&section=header" width="100%"/>
 
-## Tech Stack
+## 📈 The Numbers
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,threejs,git,github,vercel&theme=dark&perline=9" alt="Skills"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karunyasharma&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FFD400&icon_color=FFD400&text_color=ffffff&ring_color=FFD400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunyasharma&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FFD400&text_color=ffffff&langs_count=8" />
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=karunyasharma&theme=dark&hide_border=true&background=050505&ring=FFD400&fire=FFD400&currStreakLabel=FFD400" />
 
-![NumPy](https://img.shields.io/badge/NumPy-030712?style=flat-square&logo=numpy&logoColor=FFD400)
-![Pandas](https://img.shields.io/badge/Pandas-030712?style=flat-square&logo=pandas&logoColor=FFD400)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-030712?style=flat-square&logo=tensorflow&logoColor=FFD400)
-![OpenCV](https://img.shields.io/badge/OpenCV-030712?style=flat-square&logo=opencv&logoColor=FFD400)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-030712?style=flat-square&logo=framer&logoColor=FFD400)
-![GSAP](https://img.shields.io/badge/GSAP-030712?style=flat-square&logo=greensock&logoColor=FFD400)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karunyasharma&theme=react-dark&bg_color=050505&color=FFD400&line=FFD400&point=FFFFFF&hide_border=true&area=true" width="95%"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
 
-## GitHub Stats
+## 🧊 3D Contribution Grid + Live Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karunyasharma&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FFD400&icon_color=FFD400&text_color=ffffff" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunyasharma&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FFD400&text_color=ffffff" width="42%" alt="Top languages"/>
+<!-- Rendered automatically by the GitHub Action in profile-3d-contrib.yml — see Setup note below -->
+<img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=karunyasharma&theme=dark&hide_border=true&background=050505&ring=FFD400&fire=FFD400&currStreakLabel=FFD400" width="70%" alt="Streak stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karunyasharma&theme=react-dark&bg_color=050505&color=FFD400&line=FFD400&point=ffffff&hide_border=true" width="100%" alt="Contribution activity"/>
+<img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
 
 </div>
 
-<br/>
+> Both images move — the snake eats your real contribution graph, and the grid renders your commits in 3D. Enable them via the **Setup** note at the bottom (~2 minutes, one-time).
 
-<!-- Snake Game Repo View -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FFD400&height=4&section=header" width="100%"/>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-## Operating Principle
+## 🏆 Trophy Case
 
 <div align="center">
 
-> *A project should answer one question clearly: who does this help, and what becomes easier because it exists?*
+<img src="https://github-profile-trophy.vercel.app/?username=karunyasharma&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,PullRequest" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/karunyasharma?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-030712?style=for-the-badge&logo=github&logoColor=FFD400" alt="All repositories"/></a>
+## 💭 Operating Principle
 
-<sub><b>KARUNYA SHARMA</b> — learning, researching, building.</sub>
+> *A project should answer one question clearly:*
+> **who does this help, and what becomes easier because it exists?**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:050505&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let%27s+build+something+%F0%9F%9A%80" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD400,100:050505&height=140&section=footer" width="100%"/>
+
+**KARUNYA SHARMA** — learning · researching · building.
 
 </div>
 
+<!--
+=========================== SETUP NOTES (delete before publishing if you like) ===========================
 
+1. This file must live in a PUBLIC repo named exactly your username:
+   github.com/karunyasharma/karunyasharma  →  README.md at the root.
+
+2. Stats/streak/trophy/activity-graph/typing-svg/capsule dividers above work immediately — no setup,
+   they're live third-party services reading your public GitHub data and rendering fresh on every view.
+
+3. For the SNAKE animation + 3D contribution grid images to render, add the companion GitHub Action
+   (profile-3d-contrib.yml) to .github/workflows/ in this same repo. It runs on a schedule, generates
+   the SVGs, and pushes them to the `output` / `profile-3d-contrib` branches — exactly what the two
+   <img> tags above point to. Trigger it once manually from the Actions tab after adding it.
+
+4. Swap "karunyasharma" anywhere above if your GitHub handle ever changes.
+
+=============================================================================================================
+-->
 
 
 
