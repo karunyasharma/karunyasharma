@@ -115,10 +115,7 @@ Data analytics project evaluating educational return-on-investment across progra
 
 <div align="center">
 
-<!-- Rendered automatically by the GitHub Action in profile-3d-contrib.yml — see Setup note below -->
-<img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-<img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+<img alt="Hacker Snake Animation" src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output/github-snake-hacker.svg">
 
 </div>
 
@@ -130,19 +127,9 @@ Data analytics project evaluating educational return-on-investment across progra
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/pacman-contribution-graph.svg" width="95%">
-</picture>
+ <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/pacman-contribution-graph.svg" width="95%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/bomberman-contribution-graph.svg">
   <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output-arcade/bomberman-contribution-graph.svg" width="95%">
-</picture>
-
-<sub>generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">pacman-contribution-graph</a></sub>
 
 </div>
 
@@ -156,18 +143,13 @@ Data analytics project evaluating educational return-on-investment across progra
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
-
 ## 🗺️ Isometric Contribution Metrics
 
 <div align="center">
 
-<!-- Rendered by metrics.yml (Action) -> pushes to the `metrics` branch -->
 <img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/metrics/github-metrics.svg" width="95%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FFD400&height=4&section=header" width="100%"/>
 
 
 ## 🧭 Learning Roadmap
