@@ -200,7 +200,7 @@ Data analytics project evaluating educational return-on-investment across progra
 <div align="center">
 
 [![Book a chat](https://img.shields.io/badge/OPEN%20TO-collabs%20%26%20internships-FFD400?style=for-the-badge&logo=handshake&logoColor=050505&labelColor=050505)](mailto:karunyasharma60@gmail.com)
-[![Sponsor](https://img.shields.io/badge/SUPPORT-buy%20me%20a%20coffee-FFD400?style=for-the-badge&logo=buymeacoffee&logoColor=050505&labelColor=050505)](buymeacoffee.com/karunyashax)
+[![Sponsor](https://img.shields.io/badge/SUPPORT-buy%20me%20a%20coffee-FFD400?style=for-the-badge&logo=buymeacoffee&logoColor=050505&labelColor=050505)]([buymeacoffee.com/karunyashax](https://buymeacoffee.com/karunyashax))
 
 📍 Sri Ganganagar, Rajasthan, India &nbsp;|&nbsp; 🕓 IST (UTC+5:30)
 
