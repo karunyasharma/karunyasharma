@@ -169,14 +169,6 @@ Data analytics project evaluating educational return-on-investment across progra
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FFD400&height=4&section=header" width="100%"/>
 
-## 🎓 Certifications & Achievements
-
-<!-- Fill these in with your real certificates — placeholders below -->
-- 🏅 *Add certification name* — Issuer, Year
-- 🏅 *Add certification name* — Issuer, Year
-- 🏅 *Add hackathon / competition result*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
 
 ## 🧭 Learning Roadmap
 
@@ -208,7 +200,7 @@ Data analytics project evaluating educational return-on-investment across progra
 <div align="center">
 
 [![Book a chat](https://img.shields.io/badge/OPEN%20TO-collabs%20%26%20internships-FFD400?style=for-the-badge&logo=handshake&logoColor=050505&labelColor=050505)](mailto:karunyasharma60@gmail.com)
-[![Sponsor](https://img.shields.io/badge/SUPPORT-buy%20me%20a%20coffee-FFD400?style=for-the-badge&logo=buymeacoffee&logoColor=050505&labelColor=050505)](https://www.buymeacoffee.com/karunyasharma)
+[![Sponsor](https://img.shields.io/badge/SUPPORT-buy%20me%20a%20coffee-FFD400?style=for-the-badge&logo=buymeacoffee&logoColor=050505&labelColor=050505)](buymeacoffee.com/karunyashax)
 
 📍 Sri Ganganagar, Rajasthan, India &nbsp;|&nbsp; 🕓 IST (UTC+5:30)
 
