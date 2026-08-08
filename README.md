@@ -90,7 +90,7 @@ Data analytics project evaluating educational return-on-investment across progra
 
 <div align="center">
 
-**Live demos & deep dives → [karunyasharma.vercel.app](https://karunyasharma.vercel.app/)**
+**Live demos & deep dives → [Karunyasharma.com](https://karunyasharma.github.io/Karunyafolio/)**
 
 </div>
 
