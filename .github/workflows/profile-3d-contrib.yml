@@ -17,7 +17,7 @@ jobs:
       - name: Generate 3D contribution grid
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: karunyasharma
 
       - name: Push grid to profile-3d-contrib branch
@@ -26,7 +26,7 @@ jobs:
           target_branch: profile-3d-contrib
           build_dir: profile-3d-contrib
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
   build-snake:
     runs-on: ubuntu-latest
@@ -47,4 +47,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
