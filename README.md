@@ -111,18 +111,6 @@ Data analytics project evaluating educational return-on-investment across progra
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
 
-## 🧊 3D Contribution Grid + Live Snake
-
-<div align="center">
-
-<img alt="Hacker Snake Animation" src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/output/github-snake-hacker.svg">
-
-</div>
-
-> Both images move — the snake eats your real contribution graph, and the grid renders your commits in 3D. Enable them via the **Setup** note at the bottom (~2 minutes, one-time).
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD400,100:050505&height=4&section=header" width="100%"/>
-
 ## 👾 Arcade Contribution Graph
 
 <div align="center">
