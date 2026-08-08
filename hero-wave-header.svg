@@ -1,0 +1,41 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#1a1400"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#FFD400"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bgGrad)"/>
+
+  <path fill="url(#waveGrad)" opacity="0.35">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,220 C200,190 400,250 600,220 C800,190 1000,250 1200,220 L1200,260 L0,260 Z;
+        M0,230 C200,260 400,200 600,230 C800,260 1000,200 1200,230 L1200,260 L0,260 Z;
+        M0,220 C200,190 400,250 600,220 C800,190 1000,250 1200,220 L1200,260 L0,260 Z" />
+  </path>
+
+  <path fill="#FFD400" opacity="0.15">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,240 C300,210 600,260 900,235 C1050,222 1150,240 1200,235 L1200,260 L0,260 Z;
+        M0,235 C300,255 600,215 900,240 C1050,255 1150,225 1200,240 L1200,260 L0,260 Z;
+        M0,240 C300,210 600,260 900,235 C1050,222 1150,240 1200,235 L1200,260 L0,260 Z" />
+  </path>
+
+  <text x="600" y="120" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
+        font-size="58" font-weight="700" fill="#FFD400" opacity="1">
+    KARUNYA SHARMA
+    <animate attributeName="opacity" values="1;0.75;1" dur="4s" begin="0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="165" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
+        font-size="20" fill="#FFFFFF" opacity="1">
+    Applied AI &amp; Data Science @ IIT Jodhpur
+  </text>
+</svg>
