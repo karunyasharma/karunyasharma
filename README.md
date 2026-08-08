@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=050505&labelColor=050505)](https://karunyasharma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=050505&labelColor=050505)](https://karunyasharma.github.io/Karunyafolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-FFD400?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505)](https://linkedin.com/in/karunyasharma)
 [![Email](https://img.shields.io/badge/EMAIL-say%20hi-FFD400?style=for-the-badge&logo=gmail&logoColor=050505&labelColor=050505)](mailto:karunyasharma60@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-follow-FFD400?style=for-the-badge&logo=instagram&logoColor=050505&labelColor=050505)](https://www.instagram.com/karunya_sh1506/)
