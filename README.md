@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/main/hero-wave-header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/karunyasharma/karunyasharma/main/hero-wave-header.svg" width="100%"/> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:FFD400&height=260&section=header&text=KARUNYA%20SHARMA&fontSize=60&fontColor=FFD400&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=20&descColor=FFFFFF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FFD400&center=true&vCenter=true&width=750&lines=Building+AI+%2B+ML+%2B+Data+Systems;Turning+Messy+Data+Into+Clear+Decisions;Python+%E2%80%A2+TensorFlow+%E2%80%A2+OpenCV+%E2%80%A2+Next.js;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
