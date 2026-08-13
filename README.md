@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FFD400&center=true&vCenter=true&width=750&lines=Building+AI+%2B+ML+%2B+Data+Systems;Turning+Messy+Data+Into+Clear+Decisions;Python+%E2%80%A2+TensorFlow+%E2%80%A2+OpenCV+%E2%80%A2+Next.js;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
-
+ 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-FFD400?style=for-the-badge&logo=vercel&logoColor=050505&labelColor=050505)](https://karunyasharma.github.io/Karunyafolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-FFD400?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505)](https://linkedin.com/in/karunyasharma)
 [![Email](https://img.shields.io/badge/EMAIL-say%20hi-FFD400?style=for-the-badge&logo=gmail&logoColor=050505&labelColor=050505)](mailto:karunyasharma60@gmail.com)
